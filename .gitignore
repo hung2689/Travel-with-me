@@ -35,4 +35,6 @@ build/
 ### Application secrets ###
 src/main/resources/application.properties
 src/main/resources/application-*.properties
-/DUYHUNG
+
+### Personal folders ###
+DUYHUNG/
